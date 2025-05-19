@@ -16,7 +16,7 @@
 > Teste com número - retorna devido nao ser uma string
 ### console.log(éString(123));   > false
 
-##questao2
+## questao2
 
   >Função que verifica se um texto está vazio, contém apenas espaços em branco
   >ou é nulo/undefined. Retorna true, false se contiver qualquer valor ou string dentro.
